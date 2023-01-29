@@ -162,4 +162,4 @@ for (item of buttons) {
 ![Screenshot (114)](https://user-images.githubusercontent.com/119477890/215327105-104d430a-1e99-4a21-b9ce-a8cdadd58ac1.png)
 
 ## RESULT:
-
+The program for designing a standard calculator using Javascript is executed successfully.
